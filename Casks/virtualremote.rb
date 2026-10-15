@@ -4,10 +4,10 @@ cask "virtualremote" do
 
   url "https://kavaz.org/downloads/VirtualRemote-#{version}.zip"
   name "VirtualRemote"
-  desc "Menu bar remote for the media playing on another Mac"
-  homepage "https://tarik.kavaz.org"
+  desc "Menu bar remote for media playing on another computer on the network"
+  homepage "https://tarik.kavaz.org/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "VirtualRemote.app"
 
