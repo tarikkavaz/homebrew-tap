@@ -21,3 +21,13 @@ brew install --cask tarikkavaz/tap/cue
 ```
 
 Update with `brew upgrade --cask cue`.
+
+## Posta
+
+Native macOS Gmail client for multiple Google accounts.
+
+```sh
+brew install --cask tarikkavaz/tap/posta
+```
+
+Update with `brew upgrade --cask posta`.
