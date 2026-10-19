@@ -11,3 +11,13 @@ brew install --cask tarikkavaz/tap/virtualremote
 ```
 
 Update with `brew upgrade --cask virtualremote`.
+
+## Cue
+
+Now-playing companion for Spotify Connect with menu bar and desktop widgets.
+
+```sh
+brew install --cask tarikkavaz/tap/cue
+```
+
+Update with `brew upgrade --cask cue`.
