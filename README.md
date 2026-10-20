@@ -31,3 +31,13 @@ brew install --cask tarikkavaz/tap/posta
 ```
 
 Update with `brew upgrade --cask posta`.
+
+## Correctify
+
+Menu bar app that corrects grammar and spelling in any app with your own AI provider key. Requires macOS 27.
+
+```sh
+brew install --cask tarikkavaz/tap/correctify
+```
+
+Update with `brew upgrade --cask correctify`.
