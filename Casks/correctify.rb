@@ -5,7 +5,7 @@ cask "correctify" do
   url "https://casks.kavaz.org/correctify/Correctify-#{version}.zip"
   name "Correctify"
   desc "Menu bar grammar correction with your own AI provider key"
-  homepage "https://github.com/tarikkavaz/Correctify"
+  homepage "https://tarik.kavaz.org/"
 
   depends_on macos: :golden_gate
 
