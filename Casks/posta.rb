@@ -2,7 +2,7 @@ cask "posta" do
   version "0.1.1"
   sha256 "97618d63ea1906463f8b0c9bdb19c641b1b0a1f2d1d7415fbc021b59f68ebed2"
 
-  url "https://kavaz.org/downloads/Posta-#{version}.zip"
+  url "https://casks.kavaz.org/posta/Posta-#{version}.zip"
   name "Posta"
   desc "Native Gmail client for multiple Google accounts"
   homepage "https://github.com/tarikkavaz/Posta"
