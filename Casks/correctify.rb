@@ -1,6 +1,5 @@
 cask "correctify" do
   version "2.0.0"
-  # Placeholder: Correctify/scripts/release.sh writes the real checksum of the uploaded zip.
   sha256 "b78a4e10634b6ceb3701776ffd24370c097359ddd917b80b4c75f533ba5e55d7"
 
   url "https://casks.kavaz.org/correctify/Correctify-#{version}.zip"
