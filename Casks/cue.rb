@@ -11,6 +11,11 @@ cask "cue" do
 
   app "Cue.app"
 
+  # A running widget extension keeps the old binary after the app is replaced.
+  postflight_steps do
+    terminate_process "CueWidgets"
+  end
+
   zap trash: [
     "~/Library/Application Support/com.tarikkavaz.cue",
     "~/Library/Caches/com.tarikkavaz.cue",
