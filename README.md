@@ -41,3 +41,13 @@ brew install --cask tarikkavaz/tap/correctify
 ```
 
 Update with `brew upgrade --cask correctify`.
+
+## Stabilisator
+
+Menu bar app that levels dialogue and loud scenes across everything your Mac plays, with a volume control for outputs that have none. Beta. Requires macOS 14.2 or later.
+
+```sh
+brew install --cask tarikkavaz/tap/stabilisator
+```
+
+Update with `brew upgrade --cask stabilisator`.
