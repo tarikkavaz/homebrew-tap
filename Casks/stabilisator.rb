@@ -1,6 +1,6 @@
 cask "stabilisator" do
-  version "0.1.4"
-  sha256 "a1d7d3d4596a653d79788cef44334485e0b0b78825bcc508e29af55b2a6d88c3"
+  version "0.1.5"
+  sha256 "42fe1278a27f0207e220ad6b6171d2cc56dab482481a6121dd6e63c73558b2ee"
 
   url "https://casks.kavaz.org/stabilisator/Stabilisator-#{version}.zip"
   name "Stabilisator"
