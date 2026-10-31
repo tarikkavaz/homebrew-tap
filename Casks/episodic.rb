@@ -1,6 +1,6 @@
 cask "episodic" do
-  version "0.1.1"
-  sha256 "9519f65bfca3793979aa5eaf667144462dae549e56b3194d9dce6a0c46852432"
+  version "0.1.2"
+  sha256 "70a556bdfd4ea85437d028d870e550f70b77a7e5726b77c7027f88f553a22023"
 
   url "https://casks.kavaz.org/episodic/Episodic-#{version}.zip"
   name "Episodic"
