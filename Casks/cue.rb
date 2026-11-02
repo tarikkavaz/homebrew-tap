@@ -7,6 +7,7 @@ cask "cue" do
   desc "Now-playing companion for Spotify Connect with menu bar and desktop widgets"
   homepage "https://tarik.kavaz.org/"
 
+  auto_updates true
   depends_on macos: :sonoma
 
   app "Cue.app"
