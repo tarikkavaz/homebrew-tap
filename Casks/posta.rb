@@ -7,6 +7,7 @@ cask "posta" do
   desc "Native Gmail client for multiple Google accounts"
   homepage "https://github.com/tarikkavaz/Posta"
 
+  auto_updates true
   depends_on macos: :sonoma
 
   app "Posta.app"
