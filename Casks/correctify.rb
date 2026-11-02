@@ -7,6 +7,7 @@ cask "correctify" do
   desc "Menu bar grammar correction with your own AI provider key"
   homepage "https://tarik.kavaz.org/"
 
+  auto_updates true
   depends_on macos: :golden_gate
 
   app "Correctify.app"
