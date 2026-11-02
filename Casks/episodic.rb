@@ -7,6 +7,7 @@ cask "episodic" do
   desc "Fetches new episodes from your TVmaze calendar through put.io into your library"
   homepage "https://github.com/tarikkavaz/Episodic"
 
+  auto_updates true
   depends_on macos: :golden_gate
 
   app "Episodic.app"
