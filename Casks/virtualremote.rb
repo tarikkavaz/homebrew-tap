@@ -7,6 +7,7 @@ cask "virtualremote" do
   desc "Menu bar remote for media playing on another computer on the network"
   homepage "https://tarik.kavaz.org/"
 
+  auto_updates true
   depends_on macos: :sonoma
 
   app "VirtualRemote.app"
