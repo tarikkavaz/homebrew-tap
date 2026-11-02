@@ -7,6 +7,7 @@ cask "stabilisator" do
   desc "Gentle system-wide dialogue leveling and volume control for the Mac menu bar"
   homepage "https://github.com/tarikkavaz/Stabilisator"
 
+  auto_updates true
   # The app needs macOS 14.2 for the Core Audio process tap. Homebrew can only say Sonoma (14.0).
   depends_on macos: :sonoma
 
