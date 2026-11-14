@@ -1,6 +1,6 @@
 cask "native" do
-  version "0.1.1"
-  sha256 "64949415d4597010142b6bd438d2360e7ce020634124e1492d3d8b9573ca964c"
+  version "0.1.2"
+  sha256 "8517002c54fbcd1d2f822c0f16c758634373530c76518ac4822d73692f7910c5"
 
   url "https://casks.kavaz.org/native/Native-#{version}.zip"
   name "Native"
