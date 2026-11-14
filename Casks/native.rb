@@ -8,7 +8,7 @@ cask "native" do
   homepage "https://github.com/tarikkavaz/Native"
 
   auto_updates true
-  depends_on macos: :golden_gate
+  depends_on macos: :sonoma
 
   app "Native.app"
 
