@@ -1,6 +1,6 @@
 cask "cue" do
-  version "0.1.4"
-  sha256 "1d6990912d4a65e1418e4239e96e1c51114e416a89be3e857bac303b9e35c724"
+  version "0.1.5"
+  sha256 "0c65e7ff08adc2bb8537b72cbc4a3aae216e9984a0a296cb356f9b8c31a222f2"
 
   url "https://casks.kavaz.org/cue/Cue-#{version}.zip"
   name "Cue"
