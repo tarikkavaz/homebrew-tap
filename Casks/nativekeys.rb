@@ -1,6 +1,6 @@
 cask "nativekeys" do
-  version "0.2.1"
-  sha256 "ef2f51f7475fc2a5a69de5951a52ff600a4ed14fbb159965ce59a540593f132e"
+  version "0.2.2"
+  sha256 "806bd5800af9d0fad338508cbf846322d5a29a4a284a0cacc9d28f62de274abf"
 
   url "https://casks.kavaz.org/nativekeys/NativeKeys-#{version}.zip"
   name "NativeKeys"
