@@ -1,6 +1,6 @@
 cask "posta" do
-  version "0.1.14"
-  sha256 "b4cd8de2a9e0e6c63bdf715d2cd63e78e52046cca01c1eb126fe94db6ddde51d"
+  version "0.1.15"
+  sha256 "6bb2240b790260f7d0722394be123a10e444302725b64eaa58aafaa9bc2e76fa"
 
   url "https://casks.kavaz.org/posta/Posta-#{version}.zip"
   name "Posta"
