@@ -1,6 +1,6 @@
 cask "virtualremote" do
-  version "0.3.9"
-  sha256 "1059bff18c588b024bb99ab97bf366b18f6bfefa439fcbbdcfd5471c9692b9ba"
+  version "0.3.10"
+  sha256 "c2536daf6837256eef9bd495d5e27fe144f1db92000ed67b22e129e799ce61b4"
 
   url "https://casks.kavaz.org/virtualremote/VirtualRemote-#{version}.zip"
   name "VirtualRemote"
