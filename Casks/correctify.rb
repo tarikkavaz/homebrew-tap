@@ -1,6 +1,6 @@
 cask "correctify" do
-  version "2.2.1"
-  sha256 "8bff80c577293a368833e333951d67804887e860ef0e2987c6296b7f4abe8feb"
+  version "2.2.2"
+  sha256 "4c5cd2ff2960ffb165afd7e2ebb7a17ad2f28356e2a138238def7bfb39fbac97"
 
   url "https://casks.kavaz.org/correctify/Correctify-#{version}.zip"
   name "Correctify"
